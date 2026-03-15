@@ -1,13 +1,15 @@
-## Getting Started
+## Essas são minhas atividades
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Olá professor, neste repositório você vai identificar todas as atividades requisitadas na última semana! :)
 
-## Folder Structure
+## Estrutura das pastas
 
-The workspace contains two folders by default, where:
+O projeto segue com as duas pastas padrões, onde:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- `src`: Contém todos os arquivos .java de todas as atividades
+- `lib`: é a lib tradicional. Kkk.
+
+- (Não traduzirei o restante por nem sequer saber total significado. haha.)
 
 Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
