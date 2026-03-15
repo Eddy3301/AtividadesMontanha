@@ -21,7 +21,7 @@ public static void main(String[] args) throws Exception {
 
     // Fiz esse extra!
 
-    System.out.printf("Esse é o QUOCIENTE da divisão: %d", dividendo / divisor);
+    System.out.printf("Esse é o QUOCIENTE da divisão: %d (lembrando que é a parte inteira da divisão) \n", dividendo / divisor);
 
     scanner.close();
 
