@@ -1,6 +1,6 @@
 ## Essas são minhas atividades
 
-Olá professor, neste repositório você vai identificar todas as atividades requisitadas na última semana! :)
+Olá professor, neste repositório você vai identificar todas as atividades requisitadas na última semana! :).
 
 ## Estrutura das pastas
 
